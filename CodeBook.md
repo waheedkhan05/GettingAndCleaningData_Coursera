@@ -16,6 +16,6 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
  8. Combine the complete.data.subjects, complete.data.labels and extracted.data.set by column to get a new cleaned 10299x81 data table, cleaned.data. Properly name the first two columns as , "Subject" and "Activity".
  9. Write the *cleaned.data* out to "cleaned_data.txt" file in current working directory.  
  10. Finally,I generated a second independent tidy data set with the mean of each measurement for each activity and each subject and stored in data table result. 
- 11) The data table result is generated and written to file cleaned_data2.txt
+ 11) The data table result is generated and written to file dataset2.txt
  
 © Waheed Khan 2015.
