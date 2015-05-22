@@ -12,7 +12,7 @@ This file describes how the script works.
 * I have used data table instead of simple data frame so there is a dependency on **data.table**. Make sure to download and install data.table package.
 * Use source("run_analysis.R") command in RStudio or run the script after you have setup the working directory explained above.
 * The script file will run and will output messages as it progresses.
-*After successful completion, you will find two output files are generated in the current working directory:
+* After successful completion, you will find two output files are generated in the current working directory:
   - cleaned_data.txt: it contains a data table called cleaned.data with 10299*81 dimensions.
   - dataset2.txt : it contains a data frame called result with 180*81 dimensions.
 
