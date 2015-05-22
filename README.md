@@ -14,6 +14,6 @@ This file describes how the script works.
 * The script file will run and will output messages as it progresses.
 *After successful completion, you will find two output files are generated in the current working directory:
   - cleaned_data.txt: it contains a data table called cleaned.data with 10299*81 dimensions.
-  - cleaned_data2.txt : it contains a data frame called result with 180*81 dimensions.
+  - dataset2.txt : it contains a data frame called result with 180*81 dimensions.
 
 © Waheed Khan 2015.
