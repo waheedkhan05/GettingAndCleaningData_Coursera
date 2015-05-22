@@ -1,12 +1,10 @@
-Getting and Cleaning Data Course Project
-Waheed Khan
-email: waheedkhan05@yahoo.com
+#Getting and Cleaning Data Course Project
+
+##**Waheed Khan**
 =================================================
 
 * The data can be downloaded from:  
-http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones      
-The data for the project:  
-https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip      
 * The run_analysis.R script performs the following steps to clean the data:   
  1. Read X_train.txt, y_train.txt and subject_train.txt from the "./data/train" folder and store them in train.data.set, train.data.label and train.data.subject variables respectively.       
  2. Read X_test.txt, y_test.txt and subject_test.txt from the "./data/test" folder and store them in test.data.set, test.data.label and test.data.subject variables respectively.  
@@ -20,4 +18,4 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
  10. Finally,I generated a second independent tidy data set with the mean of each measurement for each activity and each subject and stored in data table result. 
  11) The data table result is generated and written to file cleaned_data2.txt
  
-© Waheed Khan 2015 All Rights reserved.
+© Waheed Khan 2015.
